@@ -22,6 +22,8 @@
       	<li>About UX-UI</li>
 	<li>Discussing the benefits of artificial intelligence</li>
       	<li>Talking about cybersecurity</li>
+	<li>Cats 😼</li>
+
 </ul>
   
 <b>My GitHub Stats</b>
