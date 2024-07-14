@@ -28,9 +28,11 @@
   
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ntsg-hub"><img src="https://github-readme-stats.vercel.app/api?username=ntsg-hub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ntsg-hub's GitHub stats" /></a>
+<a href="http://www.github.com/ntsg-hub"><img src="ttps://github-readme-stats.vercel.app/api?username=ntsg-hub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ntsg-hub's GitHub stats" /></a>
 
-<a href="https://github.com/ntsg-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsg-hub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<a href="https://github.com/ntsg-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsg-hub&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
