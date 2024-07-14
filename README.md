@@ -30,7 +30,7 @@
 
 <a href="http://www.github.com/ntsg-hub"><img src="https://github-readme-stats.vercel.app/api?username=ntsg-hub&theme=dark&show_icons=true&count_private=true" alt="ntsg-hub's GitHub stats" /></a>
 
-<a href="https://github.com/ntsg-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsg-hub&theme=dark&show_icons=true&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/ntsg-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsg-hub&theme=dark&show_icons=true" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
