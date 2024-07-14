@@ -28,16 +28,15 @@
   
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ntsg-hub"><img src="https://github-readme-stats.vercel.app/api?username=ntsg-hub&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ntsg-hub's GitHub stats" /></a>
+<a href="http://www.github.com/ntsg-hub"><img src="https://github-readme-stats.vercel.app/api?username=ntsg-hub&theme=dark&show_icons=true&count_private=true" alt="ntsg-hub's GitHub stats" /></a>
 
 
 
-<a href="https://github.com/ntsg-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsg-hub&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/ntsg-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsg-hub&theme=dark&show_icons=true&layout=compact" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ntsg-hub/Calculadora-De-Impuestos" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ntsg-hub&repo=Calculadora-De-Impuestos&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br/>
-
+<a href="https://github.com/ntsg-hub/Calculadora-De-Impuestos" align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ntsg-hub&repo=Calculadora-De-Impuestos&theme=dark&show_icons=true" /></a>
 
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 
