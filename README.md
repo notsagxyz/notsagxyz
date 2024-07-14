@@ -19,7 +19,8 @@
 <ul>
 	<li>Front-End design</li>
 	<li>Front-End work</li>
-      	<li>About UX-UI?</li>
+	<li>QA</li>
+      	<li>About UX-UI? *not very interested ngl*</li>
 	<li>Discussing the benefits of artificial intelligence (AI)</li>
       	<li>Talking about cybersecurity</li>
 	<li>Cats 😼</li>
