@@ -1,7 +1,5 @@
 <h1>Holaa, I'm <a href="https://notsag.xyz/">Notsag</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h1>
 
-![](https://github.com/ntsg-hub/My-Website/blob/main/Banner/BannerREADME.PNG)
-
 <div align="center">
 <h3>Gastón Maidana | 💻 Front-End Developer | Argentina , San Luis</h3>
 </div>
