@@ -29,13 +29,13 @@
   
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/ntsg-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsg-hub&theme=dracula&show_icons=true" alt="Top Languages" /></a>
+<a href="https://github.com/ntsg-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsg-hub&theme=dark&show_icons=true" alt="Top Languages" /></a>
 
 
 
 <b>Top Repositories</b>
 
-<a href="https://github.com/ntsg-hub/Calculadora-De-Impuestos" align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ntsg-hub&repo=Calculadora-De-Impuestos&theme=dracula&show_icons=true" /></a>
+<a href="https://github.com/ntsg-hub/Calculadora-De-Impuestos" align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ntsg-hub&repo=Calculadora-De-Impuestos&theme=dark&show_icons=true" /></a>
 
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 
