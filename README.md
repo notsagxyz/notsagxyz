@@ -11,7 +11,7 @@
 <p>
   - I can communicate in Spanish and have intermediate English. I like computing and cats!! <br>
   - Learning JS & PHP <br>
-  - I have interesting projects such as: <a href="https://github.com/ntsg-hub/Calculadora-De-Impuestos">Tax calculator for Argentina</a>
+  - I have interesting projects such as: <a href="https://github.com/ntsg-hub/Password-Generator">Pass gen with JS</a> or <a href="https://github.com/ntsg-hub/Calculadora-De-Impuestos">Tax calculator for Argentina</a>
 </p>
 
    
