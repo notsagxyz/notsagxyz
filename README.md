@@ -15,7 +15,7 @@
 </p>
 
    
-<p>💬 Note that I am <b>entirely interested</b> in the following items:</p>
+<p>Note that I am <b>entirely interested</b> in the following items:</p>
 <ul>
 	<li>Front-End design</li>
 	<li>Front-End work</li>
@@ -37,7 +37,7 @@
 
 <a href="https://github.com/ntsg-hub/Calculadora-De-Impuestos" align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ntsg-hub&repo=Calculadora-De-Impuestos&theme=dark&show_icons=true" /></a>
 
-<h3 align="left">👨‍💻 Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p>I can handle HTML and CSS without any issues, and I'm learning JS and PHP</p>
 <p align="left"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
