@@ -1,4 +1,4 @@
-<h1>Holaa, I'm <a href="https://notsag.xyz/">Notsag</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h1>
+<h1>Hola, I'm <a href="https://notsag.xyz/">Notsag</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h1>
 
 <div align="center">
 <h3>Gastón | Front-End Developer? | Argentina , San Luis</h3>
