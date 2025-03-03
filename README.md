@@ -1,11 +1,11 @@
-<h1>Hola, I'm <a href="https://notsag.xyz/">Notsag</a> <img src="https://media1.tenor.com/m/Wmf0hDgKJz4AAAAd/silver-heart.gif" width="60"> </h1>
+<h1>Hola, I'm <a href="https://notsag.xyz/">Notsag</a> <img src="https://i.pinimg.com/originals/85/07/5e/85075e1992bd0141af194e72ecc973de.gif" width="60"> </h1>
 
 <div align="center">
-<h3>Gastón | Front-End Developer? | Argentina , San Luis</h3>
+<h3>⋆˙⟡ Gastón | Front-End Developer? | Argentina , San Luis ⋆˙⟡</h3>
 </div>
 
 <p align="center">
-  <h3> I'm 18 years old Front-End developer, improving to become a full-stack developer 😾</h3>
+  <h3> Student Front-End developer, improving to become a full-stack developer</h3>
 </p>
 
 <p>
@@ -23,7 +23,7 @@
       	<li>About UX-UI? *not very interested ngl*</li>
 	<li>Discussing the benefits of artificial intelligence (AI)</li>
       	<li>Talking about cybersecurity</li>
-	<li>Cats 😼</li>
+	<li>Cats♡</li>
 
 </ul>
   
