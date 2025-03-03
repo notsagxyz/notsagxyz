@@ -1,7 +1,7 @@
 <h1>｡ ₊°༺I'm <a href="https://notsag.xyz/">Notsag</a>༻°₊ ｡ <img src="https://i.pinimg.com/originals/85/07/5e/85075e1992bd0141af194e72ecc973de.gif" width="60"> </h1>
 
 <div align="center">
-<h3>⋆˙⟡ Gastón | Front-End Developer? | Argentina , San Luis ⋆˙⟡</h3>
+<h3>⋆˙⟡ Gastón ⏾ | Front-End Developer? | Argentina , San Luis ⋆˙⟡</h3>
 </div>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  - I can communicate in Spanish and have intermediate English. I like computing and cats!! <br>
+  - I can communicate in Spanish and have intermediate English. I like computing and cats₍^. .^₎⟆ <br>
   - Learning JS & PHP <br>
   - I have interesting projects such as: <a href="https://github.com/ntsg-hub/Password-Generator">Pass gen with JS</a> or <a href="https://github.com/ntsg-hub/Calculadora-De-Impuestos">Tax calculator for Argentina</a>
 </p>
@@ -27,7 +27,7 @@
 
 </ul>
   
-<b>My GitHub Stats</b>
+<b>My GitHub Stats ⏾</b>
 
 <a href="https://github.com/ntsg-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsg-hub&theme=dark&show_icons=true" alt="Top Languages" /></a>
 
