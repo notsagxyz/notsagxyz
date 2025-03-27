@@ -11,7 +11,7 @@
 <p>
   - I can communicate in Spanish and have intermediate English. I like computing and cats₍^. .^₎⟆ <br>
   - Learning JS & PHP <br>
-  - I have interesting projects such as: <a href="https://github.com/ntsg-hub/Password-Generator">Pass gen with JS</a> or <a href="https://github.com/ntsg-hub/Calculadora-De-Impuestos">Tax calculator for Argentina</a>
+  - I have interesting projects such as: <a href="https://github.com/notsagxyz/Password-Generator">Pass gen with JS</a> or <a href="https://github.com/notsagxyz/Calculadora-De-Impuestos">Tax calculator for Argentina</a>
 </p>
 
    
@@ -29,7 +29,7 @@
   
 <b>My GitHub Stats ⏾</b>
 
-<a href="https://github.com/ntsg-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsg-hub&theme=dark&show_icons=true" alt="Top Languages" /></a>
+<a href="https://github.com/notsagxyz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsagxyz&theme=dark&show_icons=true" alt="Top Languages" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
