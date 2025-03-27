@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <h3> Student Front-End developer, improving to become a full-stack developer</h3>
+  <h3> Student Front-End developer, improving to become a full-stack developer?</h3>
 </p>
 
 <p>
