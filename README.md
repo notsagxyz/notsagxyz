@@ -10,7 +10,7 @@
 
 <p>
   - I can communicate in Spanish and have intermediate English. I like computing and cats₍^. .^₎⟆ <br>
-  - Learning JS & PHP <br>
+  - Learning JS, PHP & Python <br>
   - I have interesting projects such as: <a href="https://github.com/notsagxyz/Password-Generator">Pass gen with JS</a> or <a href="https://github.com/notsagxyz/Calculadora-De-Impuestos">Tax calculator for Argentina</a>
 </p>
 
